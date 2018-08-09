@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Raziqshah/PM-Lightning-plugin
+branches:
+- master
+projects:
+  PM-Lightning-plugin:
+    path: ""
+...
